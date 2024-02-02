@@ -136,3 +136,11 @@ main h2 span::after{
 }
 
 /* 메인 영역 End */
+
+section {
+    padding: 5rem 0;
+}
+
+section:nth-child(2n){
+    background-color: #f8f8f8;
+}
