@@ -254,3 +254,10 @@ section .do-me .do-inner:hover {
     background-color: lightcoral;
     color: white;
 }
+
+.bg {
+    background:url('./images/backimage.jpg') center center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 650px;
+}
